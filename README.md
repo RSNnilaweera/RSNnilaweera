@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/RSNnilaweera/RSNnilaweera/a_3bd2a43bb1c26b53043c65d31ae8fe2d.gif" align="center" style="width: 100%" />
 </div>  
 
 <!---
