@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/RSNnilaweera/RSNnilaweera/blob/main/a_3bd2a43bb1c26b53043c65d31ae8fe2d.gif" align="center" style="width: 100%" />
+<img src="https://github.com/RSNnilaweera/RSNnilaweera/blob/main/a_3bd2a43bb1c26b53043c65d31ae8fe2d.gif" alt="Raveesh Nilaweera" height="42" width="42">
 </div>  
 
 - 👋 Hi, I’m @RSNnilaweera
